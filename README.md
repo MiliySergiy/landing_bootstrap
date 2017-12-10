@@ -4,18 +4,18 @@
 **СSS**
 ---
 1. DEFAULT CLASSES (классы фона)
-    .bg-black 
-    .bg-grey  
-    .text-white 
+    .bg-black (черный фон)
+    .bg-grey  (серый фон)
+    .text-white (белый цвет текста)
 2. DEFAULT COMPONENT (классы для кнопок)
-    .btn.btn-default
-    .btn-grey
-    .btn-dark
-    .btn-black
-    .btn.btn-small
+    .btn.btn-default (стандартные стили + цвет для кнопки)
+    .btn-grey (серый цвет кнопки)
+    .btn-dark (темный цвет кнопки)
+    .btn-black (черный цвет кнопки)
+    .btn-small (маленькая кнопка)
 3. SECTION (классы для секций)
-    .default-section
-    .small-section
+    .default-section (стандартная секция)
+    .small-section (маленькая секция)
 ---
 **HTML**
 ---
