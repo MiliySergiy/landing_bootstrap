@@ -201,6 +201,7 @@ textarea.form-control{
 	height: 100vh;
 	background: url(../img/inner-bg.jpg) no-repeat center / cover;
 	text-align: center;
+	position: relative;
 }
 
 .inner::before{
@@ -229,6 +230,10 @@ textarea.form-control{
 	font-size: 19px;
 	color: rgba(255, 255, 255,.68);
 	margin-top: 100px;
+}
+
+.inner .go-to-block .fa.fa-angle-down{
+	padding-top: 10px;
 }
 
 @media (max-width: 1199px){
@@ -268,6 +273,7 @@ textarea.form-control{
 		font-size: 15px;
 	}
 }
+
 /* ==== INNER END==== */
 
 .default-section{
@@ -329,6 +335,13 @@ textarea.form-control{
 	width: 27px;
 	height: 27px;
 	line-height: 27px;
+}
+
+.go-to-block.rhomb-icon.white-icon{
+    margin-left: -15px;
+    position: absolute;
+    bottom: 20px;
+    left: 50%;
 }
 
 /* ==== RHOMB ICON END ==== */
