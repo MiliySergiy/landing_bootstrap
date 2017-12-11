@@ -1,5 +1,5 @@
 ### landing_bootstrap
-#### При создании Landing page  использовался фреймфорк Bootstrap v3.3.7
+#### При создании Landing page  использовался фреймворк Bootstrap v3.3.7
 ---
 ### СSS
 ---
