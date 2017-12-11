@@ -1,45 +1,62 @@
-# landing_bootstrap
-При создании Landing page  использовался фреймфорк Bootstrap v3.3.7
+### landing_bootstrap
+#### При создании Landing page  использовался фреймфорк Bootstrap v3.3.7
 ---
-**СSS**
+### СSS
 ---
-1. DEFAULT CLASSES (классы фона)
+#### DEFAULT CLASSES (классы фона)
+---
     .bg-black (черный фон)
     .bg-grey  (серый фон)
     .text-white (белый цвет текста)
-2. DEFAULT COMPONENT (классы для кнопок)
+---
+#### SECTION (классы для секций)
+    .default-section (стандартная секция)
+    .small-section (маленькая секция)
+---
+#### DEFAULT COMPONENTS 
+---
+##### BUTTONS (кнопки)
     .btn.btn-default (стандартные стили + цвет для кнопки)
     .btn-grey (серый цвет кнопки)
     .btn-dark (темный цвет кнопки)
     .btn-black (черный цвет кнопки)
     .btn-small (маленькая кнопка)
-3. SECTION (классы для секций)
-    .default-section (стандартная секция)
-    .small-section (маленькая секция)
 ---
-**HTML**
+##### TITLES (заголовки)
+    .title
+    .title-small
+    .title.light
+    .title-new-web-design
+---  
+
+### HTML (cтруктура документа)
 ---
-header
+##### header
 ---
-main 
+##### main 
 ---
-    1. about-studio
-    2. services
-    3. lets-talk
-    4. portfolio
-    5. start project
-    6. why-choose-us
-    7. reviews
-    8. latest-news
-    9. our-newsletter
-    10. contact-us
-    11. map
+    about-studio
+    services
+    lets-talk
+    portfolio
+    start project
+    why-choose-us
+    reviews
+    latest-news
+    our-newsletter
+    contact-us
+    map
 ---
-footer
+##### footer
 ---
-arrow-up
+##### arrow-up
 ---
-Применялись следующие медиазапросы :
+#### Используемые шрифты и иконки
+---
+    Font-Awesome - иконочный шрифт
+    Open Sans, Sans-serif - шрифты
+---
+#### Применялись следующие медиазапросы :
 1. media 1199px 
 2. media 991px 
 3. media 767px 
